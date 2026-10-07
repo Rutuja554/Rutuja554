@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Rutuja554/Rutuja554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you st# 👋 Hi, I'm Rutuja Gophane
+# 👋 Hi, I'm Rutuja Gophane
 
 ### 💻 MCA Student | .NET Developer | Full Stack Developer
 
@@ -108,14 +103,4 @@ JavaScript
        ↓
 React.js
        ↓
-Full Stack Developmentarted:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Development
